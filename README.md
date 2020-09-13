@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Weather App](https://github.com/Saurav-Navdhare/weather_app)
+- 🔭 I’m currently working on [Weather App](https://github.com/Saurav-Navdhare/Weather-App)
 - 🌱 I’m currently learning Python and accessing APIs
 - 🤔 I’m looking for help with Tkinter
 - 📫 How to reach me: [Instagram](https://www.instagram.com/saurav_navdhare/)
