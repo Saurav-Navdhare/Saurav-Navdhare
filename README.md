@@ -7,4 +7,4 @@
 - 😄 Pronouns: He (Saurav)
 - ⚡ Fun fact: 404 no fun found
 
-[![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=Saurav-Navdhare)](https://github.com/anuraghazra/github-readme-stats)
+[![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=Saurav-Navdhare&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
