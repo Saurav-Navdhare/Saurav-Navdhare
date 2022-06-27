@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning Project
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Node JS
 - 🤔 I’m looking for help with DSA
 - 📫 How to reach me: [Twitter](https://twitter.com/Saurav_Navdhare)
 - 😄 Pronouns: He (Saurav)
