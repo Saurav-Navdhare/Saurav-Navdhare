@@ -8,6 +8,7 @@
 - ⚡ Fun fact: 404 no fun found
 
 <div align="center">
+
   <img src='http://github-readme-streak-stats.herokuapp.com?user=Saurav-Navdhare&theme=dark&background=000000'/>
  <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saurav-Navdhare&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
