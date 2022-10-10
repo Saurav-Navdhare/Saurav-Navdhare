@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Saurav-Navdharea&label=Profile+Views)
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Node JS
