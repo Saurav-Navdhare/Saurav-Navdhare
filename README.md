@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saurav-Navdhare&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Saurav-Navdharea&label=Profile+Views)
 
 - 🔭 I’m currently working on Web Development
