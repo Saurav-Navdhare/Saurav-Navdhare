@@ -13,9 +13,4 @@
 
   <img src='http://github-readme-streak-stats.herokuapp.com?user=Saurav-Navdhare&theme=dark&background=000000'/>
  <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saurav-Navdhare&theme=dark&background=000000)](https://git.io/streak-stats)-->
-
-<img src='https://github-readme-stats.vercel.app/api?username=Saurav-Navdhare&count_private=true&theme=dark'/>
-<!--[![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=Saurav-Navdhare&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-Navdhare&count_private=true&show_icons=true&theme=dark'/>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-Navdhare&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 </div>
