@@ -3,11 +3,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Saurav-Navdharea&label=Profile+Views)
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Node JS
-- 🤔 I’m looking for help with DSA
+- 🌱 I’m currently a Backend Web Developer(Node JS)
+- 🤔 I’m looking for help with Blockchain
 - 📫 How to reach me: [Twitter](https://twitter.com/Saurav_Navdhare)
 - 😄 Pronouns: He (Saurav)
-- ⚡ Fun fact: 404 no fun found
+- ⚡ Fun fact: On the Bright side, I am not addicted to Caffeine
 
 <div align="center">
 
